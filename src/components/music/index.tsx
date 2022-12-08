@@ -1,4 +1,3 @@
-import { IdiscoverMusic } from "../../pages/home";
 import * as C from "./style";
 
 type IbananaProps = {
